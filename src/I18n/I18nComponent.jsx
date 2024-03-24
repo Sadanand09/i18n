@@ -11,7 +11,7 @@ const I18nComponent = () => {
 
   return (
     <div className="flex flex-col h-96 mt-32">
-      <div className="bg-gray-800 text-white p-4">
+      <div className="bg-yellow-400 text-white p-4">
         <h1 className="text-xl font-bold mb-2">Select the language of your page</h1>
         <select
           className="block p-2 border border-gray-700 rounded-md bg-gray-800 text-white focus:outline-none focus:border-blue-500"
